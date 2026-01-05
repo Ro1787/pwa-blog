@@ -1,0 +1,1 @@
+{  "name": "Mi Mundo",  "short_name": "MMI",  "theme_color": "#118B96",  "background_color": "#fff",  "display": "standalone",  "orientation": "portrait",  "scope": "/",  "start_url": "/https://mmimburu.blogspot.com/"}
